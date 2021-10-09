@@ -47,7 +47,7 @@ De preferencia se realizo todo por medio de Pipenv. El ejemplo de arriba es para
 ![ejemplo2](img/ejemplo2.png "Ejemplo2")
 
 
-# Documentación extra
+Documentación extra
 
-![link1](https://python-telegram-bot.readthedocs.io/en/latest/index.html "Link1")
-![Link2](https://dev.to/tbhaxor/making-telegram-bots-with-python-hid "Link2")
+[link1](https://python-telegram-bot.readthedocs.io/en/latest/index.html)
+[Link2](https://dev.to/tbhaxor/making-telegram-bots-with-python-hid)
